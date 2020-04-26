@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "aws-amplify": "^3.0.9",
+    "aws-amplify-react": "^4.1.8",
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.2.0",
     "react": "^16.9.0",
